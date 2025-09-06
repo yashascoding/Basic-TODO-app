@@ -14,7 +14,8 @@ It allows users to add, delete, and manage daily tasks in a clean interface.
 ---
 
 ## 📂 Project Structure
-todo-app/
+todo-app
+
 │── index.html
 
 │── style.css
