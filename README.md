@@ -20,7 +20,7 @@ todo-app
 
 │── style.css
 
-│── script.js
+│── main.js
 
 │── README.md
 
