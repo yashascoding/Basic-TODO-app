@@ -16,8 +16,11 @@ It allows users to add, delete, and manage daily tasks in a clean interface.
 ## 📂 Project Structure
 todo-app/
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── README.md
 
 <img width="568" height="401" alt="image" src="https://github.com/user-attachments/assets/266cbf84-59b1-47af-81df-54501ffc7aaa" />
